@@ -457,7 +457,7 @@
 	"request_freedayforyou"
 	{
 		"ru"		"В следующем раунде вы получите персональный фридей"
-		"en"		"You get a personal FreeDay next round"
+		"en"		"You will get a personal FreeDay next round"
 	}
 
 	"request_givefreeday"
@@ -494,13 +494,14 @@
 
 	"request_killreason_brokerule"
 	{
-		"en"		"Нарушение правил"
+		"ru"		"Нарушение правил"
+		"en"		"He broke the rules"
 	}
 
 	"request_killreason_notfollow"
 	{
 		"ru"		"Неподчинение приказу"
-		"en"		"He not listen to dictate"
+		"en"		"He is not obeying the rules"
 	}
 
 	"request_killreason_sry"
@@ -511,7 +512,8 @@
 
 	"request_killreason_freekill"
 	{
-		"en"		"Я убил его просто так"
+		"ru"		"Я убил его просто так"
+		"en"		"It was a freekill!"
 	}
 
 	"request_killreason_lostgame_chat"
@@ -532,7 +534,7 @@
 	{
 		"#format"   "{1:N},{2:N}"
 		"ru"		"Охранник {green}{1}{default} наказал {darkred}{2}{default} за нарушение правил"
-		"en"		"The Guard {green}{1}{default} claiming {darkred}{2}{default} has broke the rules"
+		"en"		"The Guard {green}{1}{default} claiming {darkred}{2}{default} has broken the rules"
 	}
 
 }
